@@ -1,0 +1,89 @@
+[
+    {
+        "image": "/img/processIcon/communiationIcon.png",
+		"background": "/img/processBk/communication.jpg",
+        "title": "初步溝通",
+        "subTitle": "Communication",
+        "infoItems": [
+            "了解個案現況及業主需求",
+            "解說設計作業流程",
+            "設計費、工程管理費及付款方式說明"
+        ]
+    },
+    {
+        "image": "/img/processIcon/measureIcon.png",
+		"background": "/img/processBk/measuring.jpg",
+        "title": "現場丈量",
+        "subTitle": "Measuring",
+        "infoItems": [
+            "現場實際丈量後進行現況放樣",
+            "預售屋待交屋後二次丈量(設計變更依建設公司圖面為準)"
+        ]
+    },
+    {
+        "image": "/img/processIcon/preliminaryDesignIcon.png",
+		"background": "/img/processBk/preliminaryDesign.jpg",
+        "title": "平面配置",
+        "subTitle": "Preliminary Design",
+        "infoItems": [
+            "依業主需求訂定設計風格及初步平面規劃",
+            "平面配置細節討論及確認"
+        ]
+    },
+    {
+        "image": "/img/processIcon/designContractIcon.png",
+		"background": "/img/processBk/designContract.jpg",
+        "title": "設計合約",
+        "subTitle": "Design Contract",
+        "infoItems": [
+            "建材、材質及色調等之討論與建議",
+            "進行工程預算初估",
+            "簽訂設計合約並收取設計費用",
+            "設計施工圖繪製",
+            "設計細節研討",
+            "工程預算確認及工程進度討論"
+        ]
+    },
+    {
+        "image": "/img/processIcon/enginContractIcon.png",
+		"background": "/img/processBk/engineeringContract.png",
+        "title": "工程合約",
+        "subTitle": "Engineering Contract",
+        "infoItems": [
+            "工程進度及施工期限確認",
+            "付款方式說明",
+            "簽訂工程合約"
+        ]
+    },
+    {
+        "image": "/img/processIcon/constructionIcon.png",
+		"background": "/img/processBk/construction.jpg",
+        "title": "工程施工",
+        "subTitle": "Construction",
+        "infoItems": [
+            "依設計圖及工程進度進行施工，並依合約付款方式收取階段費用",
+            "專人現場監工控管並回報業主工程狀況",
+            "燈飾、家飾、家具、窗簾等挑選定案"
+        ]
+    },
+    {
+        "image": "/img/processIcon/CompletionIcon.png",
+		"background": "/img/processBk/completion.jpg",
+        "title": "完工交屋",
+        "subTitle": "Completion",
+        "infoItems": [
+            "業主驗收交屋",
+            "收取工程尾款費用"
+        ]
+    },
+    {
+        "image": "/img/processIcon/ServiceIcon.png",
+		"background": "/img/processBk/service.jpg",
+        "title": "售後服務",
+        "subTitle": "Service",
+        "infoItems": [
+            "完善的售後服務",
+            "免費諮詢"
+        ]
+    }
+]
